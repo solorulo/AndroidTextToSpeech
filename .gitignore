@@ -1,6 +1,9 @@
+
 # Created by https://www.gitignore.io
 
 ### Android ###
+
+
 # Built application files
 *.apk
 *.ap_
@@ -18,7 +21,6 @@ gen/
 # Gradle files
 .gradle/
 build/
-/*/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -67,5 +69,6 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
+
 
 
